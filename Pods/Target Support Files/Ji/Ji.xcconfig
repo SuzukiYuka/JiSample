@@ -1,0 +1,2 @@
+JI_HEADER_SEARCH_PATHS = $(SDKROOT)/usr/include/libxml2
+JI_OTHER_LDFLAGS = -l"xml2"
